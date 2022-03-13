@@ -1,4 +1,4 @@
-# Rich Presences by Phoenix_R49 Version 1.3.0
+# Rich Presences by Phoenix_R49 Version 1.3.1
 ![socialmedia_preview](https://repository-images.githubusercontent.com/469362827/dde82894-44d0-4ada-8d35-912387b0d52f)
 ### Avant de commencer :
 1. Prérequis : Cliquez [ici](https://github.com/phoenixr49/Rich-Presences/blob/main/README.md#pr%C3%A9requis-)
