@@ -1,6 +1,5 @@
 # Rich Presences by Phoenix_R49
-### Merci d'avoir télécharger ces rich presences.
-Avant de commencer :
+### Avant de commencer :
 1. Chaque dossier contient un fichier "executor.cmd" à ne pas modifier.
 Pour lancer un rich presence, il suffit d'executer ce fichier dans le dossier choisi. (il vous faut node.js)
 
