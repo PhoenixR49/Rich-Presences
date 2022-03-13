@@ -1,5 +1,5 @@
 # Rich Presences by Phoenix_R49 Version 1.0.0
-![socialmedia_preview](https://repository-images.githubusercontent.com/469362827/dde82894-44d0-4ada-8d35-912387b0d52f=630x280)
+![socialmedia_preview](https://repository-images.githubusercontent.com/469362827/dde82894-44d0-4ada-8d35-912387b0d52f=630x630)
 ### Avant de commencer :
 1. Prérequis : Cliquez [ici](https://github.com/phoenixr49/Rich-Presences/blob/main/README.md#pr%C3%A9requis-)
 
