@@ -12,4 +12,5 @@ Pour ajouter une icone, faites "propriétés" puis "changer l'icone", après cel
 Télécharger le dossier : [Download](https://cdn.discordapp.com/attachments/946416718580948993/952547295629549638/Rich_Presences_-_Phoenix_R49.rar)
 
 Télécharger node.js : [Download](https://nodejs.org/)
+
 C'est bon, vous pouvez profiter de vos rich presences ! ;)
