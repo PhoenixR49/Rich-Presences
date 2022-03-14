@@ -19,6 +19,6 @@
 
 <div id="prérequis">
     <h4>Prérequis</h4>
-    <p>Télécharger WinRAR : <a href="https://www.win-rar.com/predownload.html?&L=10">Download</a></p><br>
-    <p>Télécharger node.js : <a href="https://nodejs.org/">Download</a></p><br>
+    <p>Télécharger WinRAR : <a href="https://www.win-rar.com/predownload.html?&L=10" target="_blank">Download</a></p><br>
+    <p>Télécharger node.js : <a href="https://nodejs.org/" target="_blank">Download</a></p><br>
 </div>
