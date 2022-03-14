@@ -4,7 +4,7 @@ Télécharger le dossier : [Download](https://cdn.discordapp.com/attachments/946
 
 [![Video](http://img.youtube.com/vi/n9DtH7EzWKo/0.jpg)](http://youtu.be/n9DtH7EzWKo)
 
-Avant de commencer :  
+#### Avant de commencer :  
 1\. Prérequis : Cliquez [ici](https://github.com/phoenixr49/Rich-Presences#pr%C3%A9requis)  
   
 2\. Chaque dossier contient un fichier **"executor.cmd"** à ne pas modifier.  
