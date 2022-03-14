@@ -1,6 +1,6 @@
-Rich Presences by Phoenix\_R49 Version 1.4.0
+Rich Presences by Phoenix\_R49 Version 1.5.0
 ============================================
-Télécharger le dossier : [Download](https://cdn.discordapp.com/attachments/946416718580948993/952609985307762798/Rich_Presences_-_Phoenix_R49.rar)
+Télécharger le dossier : [Download](https://cdn.discordapp.com/attachments/946416718580948993/953013677232115813/Rich_Presences_-_Phoenix_R49.rar)
 
 [![Video](http://img.youtube.com/vi/n9DtH7EzWKo/0.jpg)](http://youtu.be/n9DtH7EzWKo)
 
@@ -16,7 +16,5 @@ Pour ajouter une icone, faites **"propriétés"** puis **"changer l'icone"**, ap
 #### Prérequis
 
 Télécharger WinRAR : [Download](https://www.win-rar.com/predownload.html?&L=10)
-
-  
 
 Télécharger node.js : [Download](https://nodejs.org/)
