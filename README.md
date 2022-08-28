@@ -2,7 +2,7 @@ Rich Presences by Phoenix\_R49 Version 1.6.0
 ============================================
 Télécharger le dossier : [Download](https://cdn.discordapp.com/attachments/946416718580948993/953023581783224362/Rich_Presences_-_Phoenix_R49.rar)
 
-![Images](https://img.shields.io/github/downloads/phoenixr49/Rich-Presences/total?color=a&label=Téléchargements)
+![GitHub all releases](https://img.shields.io/github/downloads/phoenixr49/Rich-Presences/total?color=a&label=T%C3%A9l%C3%A9chargements)
 
 [![Video](http://img.youtube.com/vi/n9DtH7EzWKo/0.jpg)](https://youtu.be/n9DtH7EzWKo)
 
